@@ -1,0 +1,16 @@
+            <div class="finput">
+                <div class="form-div">
+                    <input type="text" placeholder="Nama" id="name" required>
+                    <input type="text" placeholder="Email" id="email" required>
+                </div>
+                <div class="form-div">
+                    <input type="number" placeholder="Nomor Telepon" id="phone" required>
+                    <input type="date" id="date" required>
+                </div>
+                <div class="form-div" id="last-fdiv">
+                    <input type="number" id="ticket" placeholder="Jumlah Ticket" min="1" max="99" required>
+                    <select name="location" id="location" required>
+                    </select>
+                </div>
+                <input type="submit" name="submit" id="submit">
+            </div>

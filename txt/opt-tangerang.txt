@@ -1,0 +1,4 @@
+<option value="" disabled selected>Pilih Lokasi</option>
+<option value="Tebing Koja">Tebing Koja</option>
+<option value="Danau Kelapa Dua">Danau Kelapa Dua</option>
+<option value="The Breeze">The Breeze</option>

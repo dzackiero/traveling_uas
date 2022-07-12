@@ -1,0 +1,4 @@
+<option value="" disabled selected>Pilih Lokasi</option>
+<option value="The Higland Park Resort">The Higland Park Resort</option>
+<option value="Air Terjun Cibodas">Air Terjun Cibodas</option>
+<option value="Taman Bunga Nusantara">Taman Bunga Nusantara</option>

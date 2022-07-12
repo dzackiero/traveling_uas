@@ -1,0 +1,5 @@
+<option value="" disabled selected>Pilih Lokasi</option>
+<option value="Monumen Nasional">Monumen Nasional</option>
+<option value="Museum MACAN">Museum MACAN</option>
+<option value="Ragunan">Ragunan</option>
+<option value="Pulau Seribu">Pulau Seribu</option>
